@@ -1,0 +1,52 @@
+.section-0 ul li a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    text-decoration: none;
+}
+
+.section-0{
+    background-color: rgb(187, 139, 139);
+}
+.section-0 ul{
+    padding: 10px;
+        margin-left: 20px;
+}
+
+.section-1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/* .heading{
+    font-size: 50px;
+} */
+/* .counter{
+    font-size: 65px;
+    font-weight: 700;
+} */
+.btns{
+    padding: 20px 35px;
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 45px;
+    border: none;
+}
+.btns:hover{
+    background-image: linear-gradient(133deg, #1b911f, #03A9F4);
+}
+.btn1{
+    background-color: green;
+    /* background-image: linear-gradient(133deg, #1b911f, #03A9F4); */
+}
+.btn2{
+    background-color: red;
+    /* background-image: linear-gradient(133deg, #1b911f, #03A9F4); */
+    margin-left: 10px;
+}
+.btnreset{
+    margin-left: 10px;
+    background-color: blue;
+}
